@@ -4,7 +4,7 @@
 </a>
 
 **NOVA - Convert** is a skill for your [NOVA](//github.com/HeyHeyChicken/NOVA) assistant.<br>
-This skill will allow your assistant to count.
+This skill will allow your assistant to convert.
 
 <br>
 

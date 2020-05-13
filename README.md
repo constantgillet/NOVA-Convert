@@ -1,14 +1,14 @@
 <div align="center">
 <a href="//nova-assistant.com" rel="nofollow">
-<img src="https://github.com/HeyHeyChicken/NOVA-Count/blob/master/resources/nova-logo.svg" alt="NOVA" width="300">
+<img src="https://github.com/constantgillet/NOVA-Convert/blob/master/resources/nova-logo.svg" alt="NOVA" width="300">
 </a>
 
-**NOVA - Count** is a skill for your [NOVA](//github.com/HeyHeyChicken/NOVA) assistant.<br>
+**NOVA - Convert** is a skill for your [NOVA](//github.com/HeyHeyChicken/NOVA) assistant.<br>
 This skill will allow your assistant to count.
 
 <br>
 
-<img src="https://github.com/HeyHeyChicken/NOVA-Count/blob/master/resources/screenshot.jpg" alt="NOVA" width="800">
+<img src="https://github.com/constantgillet/NOVA-Convert/blob/master/resources/screenshot.jpg" alt="NOVA" width="800">
 </div>
 
 <br>
@@ -27,7 +27,7 @@ This skill will allow your assistant to count.
 
 ## Support and contribution
 
-I provide support for all users through [GitHub issues](//github.com/HeyHeyChicken/NOVA-Count/issues).
+I provide support for all users through [GitHub issues](//github.com/constantgillet/NOVA-Convert/issues).
 
 If you would like to contribute to this project, make sure you first read the [guide for contributors](//github.com/HeyHeyChicken/NOVA/blob/master/CONTRIBUTING.md).
 

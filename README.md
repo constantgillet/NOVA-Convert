@@ -21,8 +21,8 @@ This skill will allow your assistant to convert.
 
 ## Features
 
-- It will allow your assistant to convert yards in meters
-
+- It will allow your assistant to convert yards to meters
+- It will allow your assistant to convert pounds to kilograms
 
 
 ## Support and contribution

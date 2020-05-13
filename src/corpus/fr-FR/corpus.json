@@ -1,0 +1,33 @@
+{
+  "name": "Convert",
+  "data": [
+    {
+      "intent": "convertYardToMeter.number",
+      "utterances": [
+        "Convertis {number|1} pied en mètres",
+        "Combien font {number|1} pieds en mètres",
+        "Convertis {number|1} pieds en mètres",
+        "Combien fait {number|1} pieds en mètres",
+        "Convertir {number|1} pieds en mètres",
+        "Combien donne {number|1} pieds en mètres"
+      ],
+      "answers": [
+        "Cela fait %value% mètres.",
+        "Cela donne %value% mètres."
+      ]
+    },
+    {
+      "intent": "convertMeterToYard.number",
+      "utterances": [
+        "Convertir {number|1} m en pieds",
+        "Combien font {number|1} m en pieds",
+        "Combien fait {number|1} m en pieds",
+        "Combien donne {number|1} m en pieds"
+      ],
+      "answers": [
+        "Cela fait %value% pieds.",
+        "Cela donne %value% pieds."
+      ]
+    }
+  ]
+}

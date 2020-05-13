@@ -1,0 +1,16 @@
+{
+  "name": "nova-convert",
+  "version": "1.0.0",
+  "description": "This skill will allow your assistant to convert.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/constantgillet/NOVA-Convert.git"
+  },
+  "author": "Constant GILLET",
+  "license": "SEE LICENSE IN LICENSE FILE",
+  "bugs": {
+    "url": "https://github.com/constantgillet/NOVA-Convert/issues"
+  },
+  "homepage": "https://github.com/constantgillet/NOVA-Convert#readme"
+}

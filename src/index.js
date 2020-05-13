@@ -34,6 +34,20 @@ class Convert extends LIBRARIES.Skill{
         }
       }
     });
+
+    //Convert pounds to kg
+    this.Main.Manager.addAction("convertPoundToKilogram.number", function(_intent, _socket){
+      if(_intent.Variables.number !== undefined){
+        if(!isNaN(parseFloat(_intent.Variables.number))){
+          
+          let number = _intent.Variables.number / 2.205;
+          number = number.toPrecision(4);
+          _intent.Variables.value = number;
+
+          _intent.answer(_socket);
+        }
+      }
+    });
   }
 }
 

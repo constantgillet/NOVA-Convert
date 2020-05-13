@@ -28,6 +28,22 @@
         "Cela fait %value% pieds.",
         "Cela donne %value% pieds."
       ]
+    },
+    {
+      "intent": "convertPoundToKilogram.number",
+      "utterances": [
+        "Convertir {number|1} livre en kg",
+        "Convertis {number|1} livre en kg",
+        "Combien font {number|1} livre en kg",
+        "Combien fait {number|1} livre en kg",
+        "Convertis {number|1} pounds en kg",
+        "Convertir {number|1} pounds en kg",
+        "Combien fait {number|1} pounds en kg"
+      ],
+      "answers": [
+        "Cela fait %value% kg.",
+        "Cela donne %value% kg."
+      ]
     }
   ]
 }

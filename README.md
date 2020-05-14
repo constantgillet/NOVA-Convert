@@ -34,3 +34,5 @@ If you would like to contribute to this project, make sure you first read the [g
 <br>
 <br>
 
+Created by Constant GILLET with ❤ and ☕ (chocolate).
+

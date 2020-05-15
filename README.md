@@ -4,7 +4,7 @@
 </a>
 
 **NOVA - Convert** is a skill for your [NOVA](//github.com/HeyHeyChicken/NOVA) assistant.<br>
-This skill will allow your assistant to convert.
+This skill will allow your assistant to convert a lot of things...
 
 <br>
 
@@ -17,7 +17,7 @@ This skill will allow your assistant to convert.
 
 1) Go to your NOVA's server UI (the default URL is "http://localhost:8080/")
 2) Go to the "Skills" tab.
-3) Find the "Convert" skill, open the modal and click on the "Install" button.
+3) Find the "Install from GitHub" input, paste "https://github.com/constantgillet/NOVA-Convert", and click install.
 
 ## Features
 

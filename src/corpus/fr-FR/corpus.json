@@ -57,6 +57,38 @@
         "Cela fait %value% livres.",
         "Cela donne %value% livres."
       ]
+    },
+    {
+      "intent": "convertCentimeterToMeter.number",
+      "utterances": [
+        "Convertis {number|1} cm en mètre",
+        "Combien fait {number|1} cm en mètre",
+        "Convertir {number|1} cm en mètre",
+        "Combien donne {number|1} cm en mètre",
+        "Combien font {number|1} cm en mètre"
+      ],
+      "answers": [
+        "Cela fait %value% mètres.",
+        "Cela donne %value% mètres."
+      ]
+    },
+    {
+      "intent": "convertMeterToCentimeter.number",
+      "utterances": [
+        "Convertis {number|1} m en centimètres",
+        "Combien fait {number|1} m en centimètres",
+        "Convertir {number|1} m en centimètres",
+        "Combien donne {number|1} m en centimètres",
+        "Combien font {number|1} m en centimètres",
+        "Convertis {number|1} m en cm",
+        "Combien fait {number|1} m en cm",
+        "Combien donne {number|1} m en cm",
+        "Convertir {number|1} m en cm"
+      ],
+      "answers": [
+        "Le résultat est %value% centimètres.",
+        "Cela donne %value% centimètres."
+      ]
     }
   ]
 }

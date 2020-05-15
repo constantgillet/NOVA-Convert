@@ -62,6 +62,34 @@ class Convert extends LIBRARIES.Skill{
         }
       }
     });
+  
+    //Convert Centimeters to meters
+    this.Main.Manager.addAction("convertCentimeterToMeter.number", function(_intent, _socket){
+      if(_intent.Variables.number !== undefined){
+        if(!isNaN(parseFloat(_intent.Variables.number))){
+          
+          let number = _intent.Variables.number / 100;
+          number = number.toPrecision(4);
+          _intent.Variables.value = number;
+
+          _intent.answer(_socket);
+        }
+      }
+    });
+
+    //Convert Meters to Centimeters
+    this.Main.Manager.addAction("convertMeterToCentimeter.number", function(_intent, _socket){
+      if(_intent.Variables.number !== undefined){
+        if(!isNaN(parseFloat(_intent.Variables.number))){
+          
+          let number = _intent.Variables.number * 100;
+          number = number.toPrecision(4);
+          _intent.Variables.value = number;
+
+          _intent.answer(_socket);
+        }
+      }
+    });
 
   }
 }
